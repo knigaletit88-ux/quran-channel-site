@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://knigaletit88-ux.github.io/quran-channel-site/sitemap.xml
